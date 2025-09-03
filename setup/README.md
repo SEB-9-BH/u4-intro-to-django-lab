@@ -5,11 +5,20 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Fork this repository.
+
+Clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-cd ~/code/ga/labs
+git clone https://github.com/<your-username>/u4-intro-to-django-lab.git
 ```
+
+> Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
+
+Next, `cd` into your new cloned directory, `u4-intro-to-django-lab`:
+
+```bash
+cd u4-intro-to-django-lab
 
 ## Django Tutorial Setup
 
