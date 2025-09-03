@@ -19,6 +19,7 @@ Next, `cd` into your new cloned directory, `u4-intro-to-django-lab`:
 
 ```bash
 cd u4-intro-to-django-lab
+```
 
 ## Django Tutorial Setup
 
