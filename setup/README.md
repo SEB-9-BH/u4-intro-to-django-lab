@@ -48,7 +48,7 @@ Make sure to note the username displayed next to the database name in the list, 
 
 ### Step 1: Set Up Your Project Directory
 
-Navigate to your desired directory (e.g., `~/code/ga/lectures`) and create a new directory for your Django project:
+Create a new directory for your Django project:
 
 ```bash
 mkdir my-django-project
