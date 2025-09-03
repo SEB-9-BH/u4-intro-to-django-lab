@@ -24,7 +24,7 @@ You will be following the "Writing your first Django app" tutorial directly from
 
 ### Important note:
 
-Before starting the tutorial, we will walk you through the setup and installation of Django in our lab setup lesson. Therefore, you **do not need to perform any setup or installation steps** described in the tutorial. You can jump straight into the tutorial starting at **[Tutorial: Part 1](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)**.
+Before starting the tutorial, we will walk you through the setup and installation of Django in our lab setup lesson. Therefore, you **do not need to perform any setup or installation steps** described in the tutorial. You can jump straight into the tutorial starting at **[Tutorial: Part 1](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)**.
 
 ### Tutorial links
 
