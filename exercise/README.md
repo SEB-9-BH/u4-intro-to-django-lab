@@ -20,7 +20,7 @@ This lab serves a dual purpose: it introduces you to Django and equips you with 
 
 ## Exercise
 
-You will be following the "Writing your first Django app" tutorial directly from the [Django documentation](https://docs.djangoproject.com/en/5.0/). This hands-on tutorial will guide you through creating a basic poll application. It's designed to give you a practical understanding of how Django applications are built from scratch. **For this lab, you will complete Parts 1 through 4 of the tutorial.** The subsequent parts of the tutorial cover topics that we will explore together in future lessons.
+You will be following the "Writing your first Django app" tutorial directly from the [Django documentation](https://docs.djangoproject.com/en/5.2/). This hands-on tutorial will guide you through creating a basic poll application. It's designed to give you a practical understanding of how Django applications are built from scratch. **For this lab, you will complete Parts 1 through 4 of the tutorial.** The subsequent parts of the tutorial cover topics that we will explore together in future lessons.
 
 ### Important note:
 
@@ -28,7 +28,7 @@ Before starting the tutorial, we will walk you through the setup and installatio
 
 ### Tutorial links
 
-Begin the tutorial here: [Writing your first Django app, part 1](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+Begin the tutorial here: [Writing your first Django app, part 1](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)
 
 This tutorial series will cover:
 
